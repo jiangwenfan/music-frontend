@@ -1,2 +1,2 @@
 # music-frontend
-app
+openMusic frontend app
